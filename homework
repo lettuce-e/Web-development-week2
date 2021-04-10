@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <audio controls autoplay>
+  <source src="you.mp3" type="audio/mpeg">
+</audio>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+   <script>
+     function clickAlert() {
+    alert("7 deadly sins ost - perfect timing");
+}
+</script>
+</head>
+ <img src="hawk.png" alt= ":D"
+ 
+
+
+
+
+
+  <body>
+    <script src="script.js"></script>
+    <input type="button" onclick="clickAlert()" value="song name">
+  </body>
+</html>
